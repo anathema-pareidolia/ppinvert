@@ -1,0 +1,3 @@
+to stitch bridge.tif back together, execute:
+
+magick bridge-split* -append bridge.tif
